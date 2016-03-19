@@ -25,6 +25,8 @@ public class PayActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.pay);
 		
+		
+		//-------------------------
 		api = WXAPIFactory.createWXAPI(this, "wxb4ba3c02aa476ea1");
 		
 		
