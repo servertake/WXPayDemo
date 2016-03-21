@@ -41,7 +41,8 @@ public class AddFavoriteToWXActivity extends Activity {
 	private static final int MMAlertSelect1  =  0;
 	private static final int MMAlertSelect2  =  1;
 	private static final int MMAlertSelect3  =  2;
-
+ 
+	//≤‚ ‘Ã·ΩªŒ¢–≈demo
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
